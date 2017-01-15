@@ -1,0 +1,8 @@
+# ipynb checkpoints
+.ipynb_checkpoints
+
+# pycharm idea folder
+.idea
+
+# pyc files
+*.pyc
